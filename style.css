@@ -5,6 +5,9 @@
 .header, .b-dark{
     background-color: #264653;
 }
+.popins{
+  font-family: 'Poppins', sans-serif;;
+}
 .text-warn{
     color:#E76F51;
 }
