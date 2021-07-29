@@ -1,4 +1,8 @@
-.header{
+
+.family{
+    font-family: 'Luckiest Guy', cursive;
+}
+.header, .b-dark{
     background-color: #264653;
 }
 .text-warn{
@@ -8,6 +12,8 @@
 .btndanger button{
 background: #E76F51;
 }
+
+/* ===========grayscale style  ======*/
 
 .scale img{
     filter: grayscale(100%);
@@ -24,4 +30,9 @@ background: #E76F51;
 
 .tn-danger{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(222,20,68,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+/* footer style  */
+.g-dark{
+  background: #0B0D17;
 }
