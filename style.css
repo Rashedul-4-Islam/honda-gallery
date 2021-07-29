@@ -5,7 +5,15 @@
     color:#E76F51;
 }
 
-.btndanger{
+.btndanger button{
 background: #E76F51;
-font-size: 1rem;
+}
+
+.scale img{
+    filter: grayscale(100%);
+}
+.circle img{
+    border-radius: 50%;
+    width: 150px;
+    height: 145px;
 }
